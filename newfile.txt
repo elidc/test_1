@@ -1,8 +1,4 @@
 sososos
-<<<<<<< HEAD
-aaa
-=======
 
 
 fetch is working???
->>>>>>> db295749e6a8ec0ba7a1ff48d80136c392031e44
